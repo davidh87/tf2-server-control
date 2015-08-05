@@ -1,0 +1,21 @@
+## PUBS
+pub:        { port: 27015, server: public,    cfg: server             }
+## LOBBIES
+lobby41:    { port: 27041, server: lobby,     cfg: server-lobby       }
+lobby42:    { port: 27042, server: lobby,     cfg: server-lobby       }
+## 6V6
+soupytwisd: { port: 27012, server: match,     cfg: soupytwisdETF2L    }
+cunning:    { port: 27019, server: match,     cfg: cunningstuntsETF2L }
+## HL
+pushkin:    { port: 27014, server: match,     cfg: pushkinHL          }
+sir:        { port: 27016, server: match,     cfg: sirHL              }
+easygoing:  { port: 27017, server: match,     cfg: easygoingHL        }
+sdw:        { port: 27018, server: match,     cfg: sdwHL              }
+splendid:   { port: 27019, server: match,     cfg: splendidHL         }
+## OTHER
+alec:       { port: 27050, server: grigri,    cfg: server-lobby       }
+#TF2CENTER
+eu1:        { port: 27051, server: lobby,     cfg: server-lobby       }
+eu2:        { port: 27052, server: lobby,     cfg: server-lobby       }
+eu3:        { port: 27053, server: lobby,     cfg: server-lobby       }
+eu4:        { port: 27054, server: lobby,     cfg: server-lobby       }
